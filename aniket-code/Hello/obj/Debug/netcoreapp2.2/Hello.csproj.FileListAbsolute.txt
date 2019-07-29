@@ -1,0 +1,11 @@
+C:\revature\aniket-code\Hello\bin\Debug\netcoreapp2.2\Hello.deps.json
+C:\revature\aniket-code\Hello\bin\Debug\netcoreapp2.2\Hello.runtimeconfig.json
+C:\revature\aniket-code\Hello\bin\Debug\netcoreapp2.2\Hello.runtimeconfig.dev.json
+C:\revature\aniket-code\Hello\bin\Debug\netcoreapp2.2\Hello.dll
+C:\revature\aniket-code\Hello\bin\Debug\netcoreapp2.2\Hello.pdb
+C:\revature\aniket-code\Hello\obj\Debug\netcoreapp2.2\Hello.csprojAssemblyReference.cache
+C:\revature\aniket-code\Hello\obj\Debug\netcoreapp2.2\Hello.csproj.CoreCompileInputs.cache
+C:\revature\aniket-code\Hello\obj\Debug\netcoreapp2.2\Hello.AssemblyInfoInputs.cache
+C:\revature\aniket-code\Hello\obj\Debug\netcoreapp2.2\Hello.AssemblyInfo.cs
+C:\revature\aniket-code\Hello\obj\Debug\netcoreapp2.2\Hello.dll
+C:\revature\aniket-code\Hello\obj\Debug\netcoreapp2.2\Hello.pdb

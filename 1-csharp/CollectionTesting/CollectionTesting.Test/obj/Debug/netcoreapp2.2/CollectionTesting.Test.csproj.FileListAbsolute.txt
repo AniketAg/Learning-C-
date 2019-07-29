@@ -1,0 +1,4 @@
+C:\revature\aniket-code\1-csharp\CollectionTesting\CollectionTesting.Test\obj\Debug\netcoreapp2.2\CollectionTesting.Test.csprojAssemblyReference.cache
+C:\revature\aniket-code\1-csharp\CollectionTesting\CollectionTesting.Test\obj\Debug\netcoreapp2.2\CollectionTesting.Test.csproj.CoreCompileInputs.cache
+C:\revature\aniket-code\1-csharp\CollectionTesting\CollectionTesting.Test\obj\Debug\netcoreapp2.2\CollectionTesting.Test.AssemblyInfoInputs.cache
+C:\revature\aniket-code\1-csharp\CollectionTesting\CollectionTesting.Test\obj\Debug\netcoreapp2.2\CollectionTesting.Test.AssemblyInfo.cs

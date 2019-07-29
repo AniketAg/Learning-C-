@@ -1,0 +1,8 @@
+C:\revature\aniket-code\1-csharp\delegates\delegates\bin\Debug\netcoreapp2.2\delegates.deps.json
+C:\revature\aniket-code\1-csharp\delegates\delegates\bin\Debug\netcoreapp2.2\delegates.runtimeconfig.json
+C:\revature\aniket-code\1-csharp\delegates\delegates\bin\Debug\netcoreapp2.2\delegates.runtimeconfig.dev.json
+C:\revature\aniket-code\1-csharp\delegates\delegates\bin\Debug\netcoreapp2.2\delegates.dll
+C:\revature\aniket-code\1-csharp\delegates\delegates\obj\Debug\netcoreapp2.2\delegates.csprojAssemblyReference.cache
+C:\revature\aniket-code\1-csharp\delegates\delegates\obj\Debug\netcoreapp2.2\delegates.csproj.CoreCompileInputs.cache
+C:\revature\aniket-code\1-csharp\delegates\delegates\obj\Debug\netcoreapp2.2\delegates.AssemblyInfoInputs.cache
+C:\revature\aniket-code\1-csharp\delegates\delegates\obj\Debug\netcoreapp2.2\delegates.AssemblyInfo.cs
