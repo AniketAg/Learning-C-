@@ -1,0 +1,11 @@
+C:\revature\aniketa\obj\Debug\netcoreapp2.2\aniketa.csprojAssemblyReference.cache
+C:\revature\aniketa\obj\Debug\netcoreapp2.2\aniketa.csproj.CoreCompileInputs.cache
+C:\revature\aniketa\obj\Debug\netcoreapp2.2\aniketa.AssemblyInfoInputs.cache
+C:\revature\aniketa\obj\Debug\netcoreapp2.2\aniketa.AssemblyInfo.cs
+C:\revature\aniketa\bin\Debug\netcoreapp2.2\aniketa.deps.json
+C:\revature\aniketa\bin\Debug\netcoreapp2.2\aniketa.runtimeconfig.json
+C:\revature\aniketa\bin\Debug\netcoreapp2.2\aniketa.runtimeconfig.dev.json
+C:\revature\aniketa\bin\Debug\netcoreapp2.2\aniketa.dll
+C:\revature\aniketa\bin\Debug\netcoreapp2.2\aniketa.pdb
+C:\revature\aniketa\obj\Debug\netcoreapp2.2\aniketa.dll
+C:\revature\aniketa\obj\Debug\netcoreapp2.2\aniketa.pdb
